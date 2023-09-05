@@ -28,4 +28,4 @@ The Singleton Pattern ensures only one instance of a class exists throughout the
 
 ## Docs
 
-[Download Insomnia JSON File](https://github.com/LucasDants/nodejs-blog/blob/main/Insomnia_2023-09-02.json)
+[Download Insomnia JSON File](https://github.com/JoaoLucas8760/nodejs-blog/blob/main/Insomnia_2023-09-02.json)
